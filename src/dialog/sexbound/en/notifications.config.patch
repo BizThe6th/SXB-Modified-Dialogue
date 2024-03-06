@@ -1,7 +1,7 @@
 [
 	{
 		"op": "replace",
-		"path": "/plugins/pregnant/",
+		"path": "/plugins/pregnant",
 		"value": {
 			"birth": {
 				"gaveBirth": "You've just given birth to a little <babygender> named <babyname>.",

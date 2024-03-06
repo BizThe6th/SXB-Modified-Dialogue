@@ -1,7 +1,7 @@
 [
 	{
 		"op": "replace",
-		"path": "/sex/sexMusicPool/",
+		"path": "/sex/sexMusicPool",
 		"value": [
 			"/music/anybodyCanFindLoveExceptYou/anybodyCanFindLoveExceptYou.ogg",
 			"/music/baDaBa/baDaBa.ogg",
