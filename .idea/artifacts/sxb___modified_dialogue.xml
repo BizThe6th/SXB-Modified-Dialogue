@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="sxb - modified dialogue">
+    <output-path>$PROJECT_DIR$/out/artifacts/sxb___modified_dialogue</output-path>
+    <root id="root">
+      <element id="dir-copy" path="$PROJECT_DIR$/assets" />
+      <element id="module-source" name="SXB Modified Dialogue" />
+    </root>
+  </artifact>
+</component>

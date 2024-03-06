@@ -1,0 +1,12 @@
+{
+	"friendlyName": "Biz's Dialog Mod (SXB)",
+	"name": "BizSXBDialogueMod",
+	"author": "The6thBiz",
+	"description": "Modifies Dialog (and music)\nUSE SXB REBORN YOU FOOLS.",
+	"priority": 0,
+	"version": "Alpha 1.0.0",
+	"link": "TBD",
+	"requires": [
+		"lox_sexbound"
+	]
+}

@@ -1,0 +1,63 @@
+[
+	{
+		"op": "replace",
+		"path": "/plugins/pregnant/",
+		"value": {
+			"birth": {
+				"gaveBirth": "You've just given birth to a little <babygender> named <babyname>.",
+				"remoteGaveBirth": "<name> has just birthed a little <babygender> and named them <babyname>.",
+				"abortion": "Your womb will be flushed and cleaned. You can still use it later~.",
+				"stillborn": "You've birthed a stillborn. My condolences... try again!",
+				"remoteStillborn": "<name> just received a stillborn baby <babygender>. That womb is still free for use now, though."
+			},
+			"pregnancy": [
+				{
+					"pregnant": "Your womb is EXPLODING with <name>'s fresh semen! Any doubt I had that you'd be pregnant is gone.\nI've calculated you have <daycount> <daystring> before the arrival.",
+					"remotePregnant": "The shock in <name>'s eyes is priceless!!! You've filled every crevice of their uterus with your semen. They're pregnant for sure.\nI calculate <daycount> <daystring> before the arrival.",
+					"tentaclePregnant": "No-! The tentacle climaxed inside you... Sorry, you're pregnant."
+				},
+				{
+					"pregnant": "Your womb is EXPLODING with <name>'s fresh semen! Any doubt I had that you'd be pregnant is gone.",
+					"remotePregnant": "The shock in <name>'s eyes is priceless!!! You've filled every crevice of their uterus with your semen. They're pregnant for sure.",
+					"tentaclePregnant": "No-! The tentacle climaxed inside you... Sorry, I think you're pregnant."
+				}
+			],
+			"abortion" : [
+				{
+					"default": "...Cum gives, and cum takes. Your pregnancy is gone.",
+					"novakid": "That novakid cum! It's too hot for-! Oh, well. You can try for another baby later.",
+					"avali": "That avali cum! It's too cold for-! Oh, well. You can try for another baby later.",
+					"floran": "If you wanted that baby alive, floran vines in your uterus was a bad idea. The baby is dead.",
+					"argonian": "That massive argonian egg definitely crushed your baby. That egg isn't guaranteed to be fertilized, you know.",
+					"glitch": "The glitch sperm nano robots didn't know what to do when they found a baby instead of an egg. So they burrowed into the baby, killing it. I'm sorry about that."
+				},
+				{
+					"default": "I worry what <name>'s cum will do while you're pregnant...",
+					"novakid": "That novakid cum! It's too hot for-! Well, let's hope for the best.",
+					"avali": "That avali cum! It's too cold for-! Well, let's hope for the best.",
+					"floran": "I must warn you... Floran vines in the uterus aren't good for pregnancy.",
+					"argonian": "That massive argonian egg might have crushed your baby. That egg isn't guaranteed to be fertilized, you know.",
+					"glitch": "Glitch sperm can kill a baby if they can't find an egg, you know."
+				}
+			],
+			"remoteAbortion": [
+				{
+					"default": "Your cum has aborted <name>'s pregnancy!",
+					"novakid": "Your hot, steaming load has burnt away <name>'s pregnancy.",
+					"avali": "Your cum is too cold for the baby! You've aborted <name>'s pregnancy.",
+					"floran": "Your dick vines have aborted <name>'s pregnancy through blunt force trauma! Very floran of you.",
+					"argonian": "Your massive egg has crushed <name>'s baby to death. Your egg isn't guaranteed to be fertilized, you know.",
+					"glitch": "Glitch sperm can kill a baby if they can't find an egg, and my scanners detect that very same phenomenon in <name>'s womb right now."
+				},
+				{
+					"default": "Your cum can abort <name>'s pregnancy, you know-! Too late...",
+					"novakid": "Your hot, steaming load can't be good for <name>'s baby.",
+					"avali": "Your freezing cum can't be good for <name>'s baby.",
+					"floran": "Your dick vines can <name>'s pregnancy through blunt force trauma! Be careful! Oh, who am I kidding.",
+					"argonian": "Your massive egg may have crushed <name>'s baby. Your egg isn't guaranteed to be fertilized, you know.",
+					"glitch": "Glitch sperm can kill a baby if they can't find an egg, you know."
+				}
+			]
+		}
+	}
+]

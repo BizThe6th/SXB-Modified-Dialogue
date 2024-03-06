@@ -1,0 +1,11 @@
+[
+	{
+		"op": "replace",
+		"path": "/sex/sexMusicPool/",
+		"value": [
+			"/music/anybodyCanFindLoveExceptYou/anybodyCanFindLoveExceptYou.ogg",
+			"/music/baDaBa/baDaBa.ogg",
+			"/music/perchanceToDream/perchanceToDream.ogg"
+		]
+	}
+]
